@@ -1,6 +1,22 @@
 Changes
 ================
 
+0.10.1
+----
+
+- Fix typo in bash script via [#54](https://github.com/eddiezane/lunchy/pull/54)
+
+
+0.10.0
+----
+
+- Add bash completion - [bunnymatic](https://github.com/bunnymatic) [alexeyshockov](https://github.com/alexeyshockov) via [#53](https://github.com/eddiezane/lunchy/pull/53)
+
+0.9.0
+----
+
+- Add flag for exact match - [bunnymatic](https://github.com/bunnymatic) via [#51](https://github.com/eddiezane/lunchy/pull/51)
+
 0.8.0
 ----
 
